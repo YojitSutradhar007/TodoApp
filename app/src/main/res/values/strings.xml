@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">todo_list</string>
+    <string name="appicon">appicon</string>
+    <string name="dailydash">DailyDash</string>
+    <string name="add_task">Add Task</string>
+    <string name="enter_task">Enter task</string>
+    <string name="enter_description">Enter description</string>
+    <string name="task">TASK</string>
+    <string name="description">Description</string>
+</resources>
